@@ -1,1 +1,1 @@
-test
+Instance is working.
